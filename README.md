@@ -1,3 +1,3 @@
 # counter project with react reducer
 
-![alt text](image.jpg)
+![alt text](src/assets/image.png)
